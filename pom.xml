@@ -17,7 +17,6 @@
   </dependencies>
   <build>
     <finalName>jenkins-tomcat</finalName>
-  </build>
   <plugins>
   <plugin>
 			<groupId>org.apache.tomcat.maven</groupId>
@@ -29,5 +28,6 @@
    		<path>/helloworld-webapp</path>
 		  </configuration>
   </plugin>
-  </plugins>
+  </plugin>
+  </build>
 </project>
