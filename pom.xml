@@ -28,6 +28,6 @@
    		<path>/helloworld-webapp</path>
 		  </configuration>
   </plugin>
-  </plugin>
+  </plugins>
   </build>
 </project>
